@@ -1,10 +1,9 @@
 
-words = str(input(""))
-x= input("DHTFHNUQARFMQMKGSPRLRSKBCMD")
-y= input("Dany")
+words = str(input())
+x= input(DHTFHNUQARFMQMKGSPRLRSKBCMD)
+y= input(Dany)
 
-if words = x:
+if words == x:
     print("Welcome, Daenerys")
-elif words = y:
-    print("Dany who?"
-            )
+elif words == y:
+    print("Dany who?")
